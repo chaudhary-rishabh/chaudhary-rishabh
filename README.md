@@ -1,15 +1,10 @@
 <div align="center">
-
 # Rishabh Chaudhary
-
 **AI Product Engineer · Full-Stack Developer · 3+ Years**
 
 [![Portfolio](https://img.shields.io/badge/risb.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://risb.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh029)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rishabhcdotin)
-
-![Contribution Grid](https://ghchart.rshah.org/chaudhary-rishabh)
-![Streak Stats](https://streak-stats.demolab.com?user=chaudhary-rishabh&theme=dark&hide_border=true&background=0d1117)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chaudhary-rishabh&theme=github-compact&hide_border=true&area=true&days=150)
 
@@ -92,15 +87,8 @@ On the full-stack side, I architect **real-time systems** using WebSockets and S
 | [**backend-ai**](https://github.com/chaudhary-rishabh/backend-ai) | Production auth boilerplate — httpOnly cookies, rate limiting, bcrypt, Zod validation | Express, TypeScript |
 
 ---
-
-## GitHub Stats
-
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaudhary-rishabh&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaudhary-rishabh&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
-
+![Streak Stats](https://streak-stats.demolab.com?user=chaudhary-rishabh&theme=dark&hide_border=true&background=0d1117)
 </div>
 
 ---
