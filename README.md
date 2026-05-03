@@ -2,7 +2,7 @@
 Rishabh Chaudhary || AI Product Engineer · Full-Stack · 3+ Years || https://risb.dev
 </div>
 
-Building production AI systems and scalable full-stack applications — agentic pipelines, RAG architectures, real-time WebSocket/SSE systems, and AI application builders.
+<br>
 
-- 3+ years shipping full-stack products with Next.js, Node.js, TypeScript — from monorepo microservices to real-time WebSocket/SSE architectures
-- Specialized in LLM integration, agentic RAG pipelines, and AI-powered platforms where users build software through AI interfaces
+- Full-stack engineer shipping production systems with Next.js, Node.js, TypeScript — monorepo microservices, real-time WebSocket/SSE architectures and scalable backends
+- Specialized in LLM integration, agentic RAG pipelines, and vibe coding platforms where users build and deploy software through AI interfaces
