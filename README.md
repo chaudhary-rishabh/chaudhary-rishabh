@@ -1,6 +1,8 @@
 <div align="center">
-# Rishabh Chaudhary
-**AI Product Engineer · Full-Stack Developer · 3+ Years**
+Rishabh Chaudhary
+
+  
+AI Product Engineer · Full-Stack Developer · 3+ Years
 
 [![Portfolio](https://img.shields.io/badge/risb.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://risb.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh029)
@@ -22,11 +24,11 @@ On the AI side, I build **agentic pipelines**, optimize **RAG architectures** fo
 On the full-stack side, I architect **real-time systems** using WebSockets and SSE, design monorepo microservice backends, and ship production-grade Next.js frontends with strong UX standards.
 
 **Core specializations:**
-- 🤖 Agentic AI pipelines with optimized LLM compute cost and latency
-- 🔍 Advanced RAG — hybrid retrieval, reranking, context compression, query routing
-- ⚡ Real-time systems — WebSockets (native), Server-Sent Events (SSE) for streaming AI responses
-- 🏗️ Monorepo microservices — Turborepo + pnpm, shared validators, distributed queues
-- 🌐 AI application builders — full-stack platforms that let users build with AI
+- ⊕ Agentic AI pipelines with optimized LLM compute cost and latency
+- ⌸ Advanced RAG — hybrid retrieval, reranking, context compression, query routing
+- ⇌ Real-time systems — WebSockets (native), Server-Sent Events (SSE) for streaming AI responses
+- ❐ Monorepo microservices — Turborepo + pnpm, shared validators, distributed queues
+- ⋮⋮ AI application builders — full-stack platforms that let users build with AI
 
 ---
 
@@ -68,7 +70,7 @@ On the full-stack side, I architect **real-time systems** using WebSockets and S
 
 ## Projects
 
-### 🤖 AI Systems
+### ⋮⋮ AI Systems
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -77,21 +79,14 @@ On the full-stack side, I architect **real-time systems** using WebSockets and S
 | [**ai-startup-builder**](https://github.com/chaudhary-rishabh/ai-startup-builder) | Full monorepo AI application builder — agentic RAG pipeline with hybrid retrieval + reranking, SSE-streamed LLM responses, PostgreSQL, microservices | Turborepo, Hono, Drizzle, Pinecone, SSE |
 | [**ai-chat-moderation-and-summary**](https://github.com/chaudhary-rishabh/ai-chat-moderation-and-summary) | Real-time chat with AI moderation and session summarization — native WebSocket architecture, LLM-powered content analysis, Drizzle ORM | Turborepo, Next.js, Express, WebSocket, Drizzle |
 
-### 🏗️ Full-Stack & Backend
+### ⌸ Full-Stack & Backend
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**edtech-frontend**](https://github.com/chaudhary-rishabh/edtech-frontend) | Full-stack EdTech platform — DSA sheet tracker, OAuth, dark mode · [Live ↗](https://edtech-frontend-sigma.vercel.app) | Next.js 15, NextAuth, Framer Motion |
-| [**edtech-backend**](https://github.com/chaudhary-rishabh/edtech-backend) | REST API backend powering the EdTech platform | Express, MongoDB, TypeScript |
-| [**average-backend**](https://github.com/chaudhary-rishabh/average-backend) | Medium clone backend — JWT + refresh tokens, RBAC, 2FA, OTP, email verification, Jest test suite | Express, MongoDB, Zod, Twilio |
-| [**backend-ai**](https://github.com/chaudhary-rishabh/backend-ai) | Production auth boilerplate — httpOnly cookies, rate limiting, bcrypt, Zod validation | Express, TypeScript |
-
----
-<div align="center">
-![Streak Stats](https://streak-stats.demolab.com?user=chaudhary-rishabh&theme=dark&hide_border=true&background=0d1117)
-</div>
-
----
+| [**video-lms-client**](https://github.com/chaudhary-rishabh/video-lms-client) | Full-stack EdTech LMS — DSA sheet tracker, OAuth, dark mode · [Live ↗](https://edtech-frontend-sigma.vercel.app) | Next.js 15, NextAuth, Framer Motion |
+| [**video-lms-server**](https://github.com/chaudhary-rishabh/video-lms-server) | REST API backend powering the LMS platform | Express, MongoDB, TypeScript |
+| [**shopwave-ui**](https://github.com/chaudhary-rishabh/shopwave-ui) | E-commerce storefront — product catalog, cart, multi-step checkout, optimized with Next.js Server Components | Next.js 15, TypeScript, Tailwind, Zustand |
+| [**servease-ui**](https://github.com/chaudhary-rishabh/servease-ui) | Home services booking platform — provider profiles, scheduling, payments, booking tracker · [Live ↗](https://maido-frontend.vercel.app) | Next.js 15, NextAuth v5, Tailwind |
 
 <div align="center">
 
