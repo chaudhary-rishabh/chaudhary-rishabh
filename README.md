@@ -1,5 +1,5 @@
 <div align="center">
-Rishabh Chaudhary || AI Product Engineer · Full-Stack · 3+ Years || https://risb.dev
+Rishabh Chaudhary || AI Product Engineer · Full-Stack · 4+ Years || https://risb.dev
 </div>
 
 <br>
